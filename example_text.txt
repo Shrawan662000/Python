@@ -1,3 +1,3 @@
-some data to be written to the file
-my name is shrawan
-I am a data scientist
+Hello, this is a text file.
+It contains multiple lines of text.
+Python is awesome! not now
